@@ -1,0 +1,2210 @@
+{
+  "Must Try": [
+    {
+      "name": "Crispy Chicken",
+      "description": "Deep-fried chicken with a crispy coating.",
+      "price": "250",
+      "image": "images/food/crispychicken.jpg"
+    },
+    {
+      "name": "Chicken Lolipop",
+      "description": "Six juicy chicken winglets with spicy coating.",
+      "price": "200",
+      "image": "images/food/chickenlolipop.jpeg"
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": "Spicy soup with chicken, veggies, and crispy noodles.",
+      "price": "180",
+      "image": "images/food/chickenmanchowsoup.jpg"
+    },
+    {
+      "name": "Steam Chicken Momos",
+      "description": "Soft and juicy chicken momos served with chutney.",
+      "price": "160",
+      "image": "images/food/normalchixsteammomos.jpg"
+    }
+  ],
+  "Gray Lane Quick Bites": [
+    {
+      "name": "Crispy Chicken",
+      "description": "Deep-fried chicken with a crispy coating.",
+      "price": "250",
+      "image": ""
+    },
+    {
+      "name": "Chicken 65",
+      "description": "A popular spicy, deep-fried chicken dish.",
+      "price": "250",
+      "image": ""
+    },
+    {
+      "name": "Chilli Chicken Dry",
+      "description": "A dry Indo-Chinese dish of chicken tossed in a spicy sauce.",
+      "price": "240",
+      "image": ""
+    },
+    {
+      "name": "Chicken Cafreal (Sizzler)",
+      "description": "A spicy Goan style chicken dish served as a sizzler.",
+      "price": {
+        "Half": "270",
+        "Full": "495"
+      },
+      "image": ""
+    },
+    {
+      "name": "Chicken Pepper Dry",
+      "description": "A dry chicken dish with a dominant pepper flavor.",
+      "price": "200",
+      "image": ""
+    },
+    {
+      "name": "Chicken Black Bean Pepper Dry",
+      "description": "A dry chicken dish with black bean and pepper sauce.",
+      "price": "250",
+      "image": ""
+    },
+    {
+      "name": "Lemon Chicken Dry",
+      "description": "A tangy dry chicken dish with lemon flavor.",
+      "price": "220",
+      "image": ""
+    },
+    {
+      "name": "Chicken Lollipop (6's)",
+      "description": "A portion of 6 frenched chicken winglets.",
+      "price": "240",
+      "image": ""
+    },
+    {
+      "name": "French Fries",
+      "description": "Crispy golden french fries.",
+      "price": "100",
+      "image": ""
+    },
+    {
+      "name": "Masala Papad",
+      "description": "Crispy papad topped with a mix of onions, tomatoes, and spices.",
+      "price": "50",
+      "image": ""
+    },
+    {
+      "name": "Peanut Masala Papad",
+      "description": "Crispy papad topped with spiced peanuts, onions, and tomatoes.",
+      "price": "80",
+      "image": ""
+    },
+    {
+      "name": "Kaju Masala Papad",
+      "description": "Crispy papad topped with spiced cashews, onions, and tomatoes.",
+      "price": "120",
+      "image": ""
+    },
+    {
+      "name": "Honey Chilli Chicken Dry",
+      "description": "A dry dish of crispy chicken tossed in a sweet and spicy honey chilli sauce.",
+      "price": "270",
+      "image": ""
+    },
+    {
+      "name": "Chicken Chatpata",
+      "description": "A tangy and spicy chicken preparation.",
+      "price": "240",
+      "image": ""
+    },
+    {
+      "name": "Chicken Tawa Fry Boneless (6pc)",
+      "description": "A portion of 6 boneless chicken pieces fried on a tawa.",
+      "price": "200",
+      "image": ""
+    },
+    {
+      "name": "Chicken Popcorn (12 pc)",
+      "description": "A portion of 12 bite-sized pieces of crispy fried chicken.",
+      "price": "220",
+      "image": ""
+    },
+    {
+      "name": "Chicken Spring Roll",
+      "description": "Crispy spring rolls filled with chicken.",
+      "price": "170",
+      "image": ""
+    },
+    {
+      "name": "Chicken Wings Dry",
+      "description": "Dry-style chicken wings.",
+      "price": "220",
+      "image": ""
+    },
+    {
+      "name": "Chicken Drum Haven Sauce",
+      "description": "Chicken drumsticks in a special Haven sauce.",
+      "price": "260",
+      "image": ""
+    },
+    {
+      "name": "Chicken Koliwada Dry",
+      "description": "A spicy fried chicken dish, Koliwada style.",
+      "price": "220",
+      "image": ""
+    },
+    {
+      "name": "Chicken Cutlet (6 pc)",
+      "description": "A portion of 6 chicken cutlets.",
+      "price": "200",
+      "image": ""
+    },
+    {
+      "name": "Satay Chicken (3 Sticks)",
+      "description": "A portion of 3 grilled chicken skewers.",
+      "price": "260",
+      "image": ""
+    }
+  ],
+  "Start With Soup": [
+    {
+      "name": "Chicken Hot 'N' Sour Soup",
+      "description": "A classic spicy and sour soup with chicken.",
+      "price": "120"
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "description": "A creamy and comforting sweet corn soup with chicken.",
+      "price": 120
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "description": "A hearty soup with chicken and noodles.",
+      "price": 120
+    },
+    {
+      "name": "Chicken Coriander Soup",
+      "description": "A refreshing soup with chicken and coriander.",
+      "price": 130
+    },
+    {
+      "name": "Tom Yum Seafood Soup",
+      "description": "A traditional Thai hot and sour soup with seafood.",
+      "price": 180
+    },
+    {
+      "name": "Chicken Clear Soup",
+      "description": "A light and clear soup with chicken.",
+      "price": 100
+    },
+    {
+      "name": "Seafood Clear Soup",
+      "description": "A light and clear soup with assorted seafood.",
+      "price": 140
+    },
+    {
+      "name": "Mutton Paya Soup",
+      "description": "A traditional rich soup made from mutton trotters.",
+      "price": 160
+    },
+    {
+      "name": "Cream of Chicken Soup",
+      "description": "A rich and creamy chicken soup.",
+      "price": 130
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "description": "A flavorful and spicy Chicken Manchow Soup.",
+      "price": 120
+    }
+  ],
+  "Graylane Momos": [
+    {
+      "name": "Veg Hot Garlic Momos",
+      "description": "Vegetable momos with a hot garlic sauce.",
+      "price": 100
+    },
+    {
+      "name": "Veg Peri Peri Momos",
+      "description": "Vegetable momos with a spicy peri peri seasoning.",
+      "price": 100
+    },
+    {
+      "name": "Momos Chix Peri Peri",
+      "description": "Chicken momos with a spicy peri peri seasoning.",
+      "price": 120
+    },
+    {
+      "name": "Momos Chix Schezwan",
+      "description": "Chicken momos tossed in Schezwan sauce.",
+      "price": 120
+    },
+    {
+      "name": "Momos Chix Hot Garlic",
+      "description": "Chicken momos with a hot garlic sauce.",
+      "price": 120
+    },
+    {
+      "name": "Veg Schezwan Momos",
+      "description": "Vegetable momos tossed in Schezwan sauce.",
+      "price": 100
+    },
+    {
+      "name": "Veg Steam Normal Momos",
+      "description": "Classic steamed vegetable momos.",
+      "price": 90
+    },
+    {
+      "name": "Normal Chix Steam Momos",
+      "description": "Classic steamed chicken momos.",
+      "price": 100
+    }
+  ],
+  "Veg Starters": [
+    {
+      "name": "Cheese Ball (10 pc)",
+      "description": "A portion of 10 cheese balls.",
+      "price": 205
+    },
+    {
+      "name": "Stuffed Mushroom (7 pc)",
+      "description": "A portion of 7 stuffed mushrooms.",
+      "price": 190
+    },
+    {
+      "name": "Veg Mix Platter",
+      "description": "An assorted platter of Paneer Tikka, Baby Corn, Kebab, Stuffed Mushroom, and Honey Chilli Potato.",
+      "price": 950
+    },
+    {
+      "name": "Veg Spring Roll",
+      "description": "Crispy spring rolls filled with vegetables.",
+      "price": 120
+    },
+    {
+      "name": "Onion Ring",
+      "description": "Crispy fried onion rings.",
+      "price": 70
+    },
+    {
+      "name": "Aloo Tikka (8 pc)",
+      "description": "A portion of 8 potato patties.",
+      "price": 150
+    },
+    {
+      "name": "Golden Fried Babycorn (8 pc)",
+      "description": "A portion of 8 golden fried babycorn.",
+      "price": 160
+    }
+  ],
+  "Graylane Tandoor Items": [
+    {
+      "name": "Tandoori Chicken Roasted",
+      "description": "Roasted chicken marinated in tandoori spices.",
+      "price": 240
+    },
+    {
+      "name": "Chicken Tikka Boneless (6 pc)",
+      "description": "A portion of 6 boneless chicken pieces marinated and cooked in a tandoor.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Tikka Achari Kabab Boneless (6 pc)",
+      "description": "A portion of 6 boneless chicken kababs with a pickling spice marinade.",
+      "price": 250
+    },
+    {
+      "name": "Pahadi Kabab Boneless (6pc)",
+      "description": "A portion of 6 boneless chicken kababs with a mint and coriander marinade.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Hariyali Kabab Boneless (6 pc)",
+      "description": "A portion of 6 boneless chicken kababs in a green marinade.",
+      "price": 240
+    },
+    {
+      "name": "Chicken Malai Kabab Boneless (6 pc)",
+      "description": "A portion of 6 creamy, boneless chicken kababs.",
+      "price": 280
+    },
+    {
+      "name": "Chicken Reshmi Kabab Boneless (6 pc)",
+      "description": "A portion of 6 silky smooth boneless chicken kababs.",
+      "price": 240
+    },
+    {
+      "name": "Chicken Lemon Kabab (6pcs)",
+      "description": "A portion of 6 tangy lemon-flavored chicken kababs.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Seekh Kabab (6pc)",
+      "description": "A portion of 6 minced chicken skewers cooked in a tandoor.",
+      "price": 250
+    },
+    {
+      "name": "Tandoori Wings",
+      "description": "Chicken wings marinated and cooked in a tandoor (as per size).",
+      "price": 250
+    },
+    {
+      "name": "Chicken Ajwain Kabab",
+      "description": "Chicken kababs flavored with carom seeds (ajwain).",
+      "price": 250
+    },
+    {
+      "name": "Mutton Galouti Tawa Kabab (6pc)",
+      "description": "A portion of 6 melt-in-the-mouth mutton kababs cooked on a tawa.",
+      "price": 400
+    },
+    {
+      "name": "Chicken Banjara Kabab (6pc)",
+      "description": "A portion of 6 rustic, spicy Banjara style chicken kababs.",
+      "price": 250
+    },
+    {
+      "name": "Chix Angara Kabab (6 pc)",
+      "description": "A portion of 6 fiery, smoky chicken Angara kababs.",
+      "price": 260
+    },
+    {
+      "name": "Tandoor Chicken",
+      "description": "Chicken marinated in yogurt and spices, cooked in a tandoor.",
+      "price": {
+        "Qtr": 130,
+        "Half": 240,
+        "Full": 460
+      }
+    },
+    {
+      "name": "Tandoor Kabab (2 pc)",
+      "description": "A portion of 2 kababs cooked in a tandoor.",
+      "price": 220
+    },
+    {
+      "name": "Tikka Platter",
+      "description": "An assorted platter of Tikka, Hariyali, Achari, Malai, and Pahadi kababs.",
+      "price": 950
+    },
+    {
+      "name": "Mutton Seekh Kabab (6pc)",
+      "description": "A portion of 6 minced mutton skewers cooked in a tandoor.",
+      "price": 390
+    },
+    {
+      "name": "Chicken Noorani Kabab (6pc)",
+      "description": "A portion of 6 Noorani style chicken kababs.",
+      "price": 250
+    }
+  ],
+  "Tandoori Veg Kabab": [
+    {
+      "name": "Paneer Tikka (6pc)",
+      "description": "A portion of 6 paneer pieces marinated and cooked in a tandoor.",
+      "price": 250
+    },
+    {
+      "name": "Paneer Achari Kabab (6pc)",
+      "description": "A portion of 6 paneer kababs with a pickling spice marinade.",
+      "price": 250
+    },
+    {
+      "name": "Veg Seekh Kabab (6pc)",
+      "description": "A portion of 6 minced vegetable skewers cooked in a tandoor.",
+      "price": 160
+    },
+    {
+      "name": "Mushroom Tikka",
+      "description": "Mushrooms marinated and cooked in a tandoor (as per size).",
+      "price": 240
+    },
+    {
+      "name": "Paneer Malai Kabab (6pc)",
+      "description": "A portion of 6 creamy paneer kababs.",
+      "price": 280
+    },
+    {
+      "name": "Gray Lane Veg Mini Tandoori Platter",
+      "description": "A mini platter of Alu Tikka, Gobi Tikka, Babycorn Tikka, and Paneer Tikka.",
+      "price": 560
+    },
+    {
+      "name": "Paneer Pahadi Kabab (6pc)",
+      "description": "A portion of 6 paneer kababs with a mint and coriander marinade.",
+      "price": 260
+    }
+  ],
+  "Graylane Tandoori Breads": [
+    {
+      "name": "Plane Roti",
+      "description": "A plain whole wheat flatbread.",
+      "price": 20
+    },
+    {
+      "name": "Plain Naan",
+      "description": "A plain leavened, oven-baked flatbread.",
+      "price": 35
+    },
+    {
+      "name": "Butter Naan",
+      "description": "A leavened, oven-baked flatbread with butter.",
+      "price": 45
+    },
+    {
+      "name": "Cheese Naan",
+      "description": "A leavened, oven-baked flatbread stuffed with cheese.",
+      "price": 60
+    },
+    {
+      "name": "Cheese Chilli Garlic Naan",
+      "description": "A leavened, oven-baked flatbread with cheese, chilli, and garlic.",
+      "price": 75
+    },
+    {
+      "name": "Plain Kulcha",
+      "description": "A plain soft leavened flatbread.",
+      "price": 25
+    },
+    {
+      "name": "Masala Kulcha",
+      "description": "A soft leavened flatbread stuffed with a spiced mixture.",
+      "price": 40
+    },
+    {
+      "name": "Kerala Parota",
+      "description": "A layered flatbread from Kerala.",
+      "price": 20
+    },
+    {
+      "name": "Coin Parota",
+      "description": "Small, coin-sized layered flatbreads.",
+      "price": 20
+    },
+    {
+      "name": "Butter Roti",
+      "description": "A whole wheat flatbread with butter.",
+      "price": 25
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "description": "A leavened, oven-baked flatbread with cheese and garlic.",
+      "price": 70
+    },
+    {
+      "name": "Butter Garlic Naan",
+      "description": "A leavened, oven-baked flatbread with butter and garlic.",
+      "price": 50
+    },
+    {
+      "name": "Lacha Paratha",
+      "description": "A multi-layered whole wheat flatbread.",
+      "price": 30
+    },
+    {
+      "name": "Nool Parota",
+      "description": "A stringy, layered flatbread.",
+      "price": 30
+    },
+    {
+      "name": "Wheat Parota",
+      "description": "A layered flatbread made with whole wheat.",
+      "price": 25
+    }
+  ],
+  "North Indian Non-veg Curry Items": [
+    {
+      "name": "Butter Chicken",
+      "description": "A classic curry of chicken in a spiced tomato, butter, and cream sauce.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "description": "A curry of roasted marinated chicken chunks in a spiced sauce.",
+      "price": 250
+    },
+    {
+      "name": "Kadai Chicken",
+      "description": "Chicken cooked in a kadai with onions, tomatoes, and bell peppers.",
+      "price": 230
+    },
+    {
+      "name": "Chicken Kolhapuri",
+      "description": "A spicy chicken curry from Kolhapur.",
+      "price": 270
+    },
+    {
+      "name": "Chicken Do Pyaza",
+      "description": "A chicken curry with a large amount of onions.",
+      "price": 250
+    },
+    {
+      "name": "Balty Chicken",
+      "description": "A flavorful chicken curry cooked in a balti-style pan.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Handi",
+      "description": "Chicken curry cooked in a traditional handi pot.",
+      "price": 230
+    },
+    {
+      "name": "Chicken Masala",
+      "description": "A standard chicken curry with aromatic spices.",
+      "price": 200
+    },
+    {
+      "name": "Chicken Mughalai",
+      "description": "A rich and creamy chicken curry in a Mughlai style.",
+      "price": 260
+    },
+    {
+      "name": "Chicken Changezi",
+      "description": "A rich and tangy chicken curry with a tomato and milk-based gravy.",
+      "price": 270
+    },
+    {
+      "name": "Chicken Patiala (3 Type Sauce)",
+      "description": "A special chicken curry made with three types of sauce.",
+      "price": 280
+    },
+    {
+      "name": "Chicken Rogan Josh",
+      "description": "A chicken version of the classic aromatic curry.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Hyderabadi",
+      "description": "A spicy and tangy chicken curry from Hyderabad.",
+      "price": 240
+    },
+    {
+      "name": "Chicken Kali Meri Masala",
+      "description": "A chicken curry with a dominant flavor of black pepper.",
+      "price": 250
+    },
+    {
+      "name": "Dhaba Chicken",
+      "description": "A rustic, homestyle chicken curry as found in roadside dhabas.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Maharaja",
+      "description": "A royal and rich chicken curry.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Kurma",
+      "description": "A mild and creamy chicken curry with yogurt and nuts.",
+      "price": 220
+    },
+    {
+      "name": "Chicken Shahi Kurma",
+      "description": "A royal, rich, and creamy chicken kurma.",
+      "price": 230
+    },
+    {
+      "name": "Chicken Chettinad",
+      "description": "A spicy and aromatic chicken curry from the Chettinad region.",
+      "price": 270
+    },
+    {
+      "name": "Chicken Curry",
+      "description": "A simple and classic chicken curry.",
+      "price": 180
+    },
+    {
+      "name": "Chicken Sagwala",
+      "description": "Chicken cooked in a spinach-based gravy.",
+      "price": 230
+    }
+  ],
+  "North Indian Mutton Gravy Items": [
+    {
+      "name": "Mutton Rogan Josh",
+      "description": "A classic aromatic mutton curry.",
+      "price": 330
+    },
+    {
+      "name": "Mutton Korma",
+      "description": "A mild and creamy mutton curry with yogurt and nuts.",
+      "price": 330
+    },
+    {
+      "name": "Mutton Kadai",
+      "description": "Mutton cooked in a kadai with onions, tomatoes, and bell peppers.",
+      "price": 320
+    },
+    {
+      "name": "Mutton Handi",
+      "description": "Mutton curry cooked in a traditional handi pot.",
+      "price": 320
+    },
+    {
+      "name": "Mutton Curry",
+      "description": "A simple and classic mutton curry.",
+      "price": 280
+    },
+    {
+      "name": "Daba Mutton",
+      "description": "A rustic, homestyle mutton curry.",
+      "price": 320
+    },
+    {
+      "name": "Mutton Peshwari",
+      "description": "A rich mutton curry from the Peshawari region.",
+      "price": 330
+    }
+  ],
+  "North Indian Veg Gravy Items": [
+    {
+      "name": "Paneer Butter Masala",
+      "description": "A rich and creamy dish of paneer in a tomato, butter, and cashew sauce.",
+      "price": 210
+    },
+    {
+      "name": "Veg Kolhapuri",
+      "description": "A spicy mixed vegetable curry from Kolhapur.",
+      "price": 170
+    },
+    {
+      "name": "Mushroom Baby Corn Masala",
+      "description": "A curry with mushrooms and baby corn in a spiced gravy.",
+      "price": 210
+    },
+    {
+      "name": "Paneer Bhujia",
+      "description": "A scrambled paneer dish with onions, tomatoes, and spices.",
+      "price": 150
+    },
+    {
+      "name": "Kaju Paneer Masala",
+      "description": "A rich curry of paneer and cashews in a creamy sauce.",
+      "price": 250
+    },
+    {
+      "name": "Chana Masala",
+      "description": "A popular dish of chickpeas in a spicy onion-tomato gravy.",
+      "price": 120
+    },
+    {
+      "name": "Daal Fry",
+      "description": "A simple dish of cooked lentils tempered with spices.",
+      "price": 100
+    },
+    {
+      "name": "Daal Tadka",
+      "description": "Cooked lentils with an extra tempering of spices and ghee.",
+      "price": 110
+    },
+    {
+      "name": "Aloo Matar Masala",
+      "description": "A curry of potatoes and peas in a spiced gravy.",
+      "price": 120
+    },
+    {
+      "name": "Aloo Gobhi Masala",
+      "description": "A curry of potatoes and cauliflower in a spiced gravy.",
+      "price": 130
+    },
+    {
+      "name": "Matar Masala",
+      "description": "A curry of green peas in a spiced gravy.",
+      "price": 110
+    },
+    {
+      "name": "Shahi Paneer",
+      "description": "A royal, rich, and creamy paneer curry.",
+      "price": 180
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "description": "A curry of grilled paneer chunks in a spiced sauce.",
+      "price": 220
+    },
+    {
+      "name": "Mushroom Tikka Masala",
+      "description": "A curry of grilled mushrooms in a spiced sauce.",
+      "price": 230
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "A classic dish of paneer in a creamy spinach gravy.",
+      "price": 240
+    },
+    {
+      "name": "Daal Makhani",
+      "description": "A rich and creamy dish of black lentils and kidney beans.",
+      "price": 180
+    },
+    {
+      "name": "Aloo Jeera Dry",
+      "description": "A dry dish of potatoes tempered with cumin seeds.",
+      "price": 80
+    },
+    {
+      "name": "Navratn Kurma",
+      "description": "A mild and creamy curry with nine different vegetables and nuts.",
+      "price": 160
+    },
+    {
+      "name": "Mix Veg Masala",
+      "description": "A curry of mixed vegetables in a spiced gravy.",
+      "price": 130
+    },
+    {
+      "name": "Veg Kadai",
+      "description": "Mixed vegetables cooked in a kadai with onions, tomatoes, and bell peppers.",
+      "price": 170
+    },
+    {
+      "name": "Kadai Paneer",
+      "description": "Paneer cooked in a kadai with onions, tomatoes, and bell peppers.",
+      "price": 190
+    },
+    {
+      "name": "Mushroom Kadai",
+      "description": "Mushrooms cooked in a kadai with onions, tomatoes, and bell peppers.",
+      "price": 190
+    },
+    {
+      "name": "Aalu Palak",
+      "description": "A vegetarian dish of potatoes in a spinach gravy.",
+      "price": 130
+    },
+    {
+      "name": "Bhindi Masala",
+      "description": "A dish of okra cooked in a spiced onion-tomato gravy.",
+      "price": 120
+    },
+    {
+      "name": "Veg Kofta",
+      "description": "Vegetable balls in a rich and creamy gravy.",
+      "price": 140
+    },
+    {
+      "name": "Mushroom Masala",
+      "description": "A curry of mushrooms in a spiced gravy.",
+      "price": 180
+    }
+  ],
+  "North Indian Rice Veg Items": [
+    {
+      "name": "Ghee Rice",
+      "description": "Aromatic rice cooked with ghee.",
+      "price": {
+        "Half": "60",
+        "Full": "100"
+      }
+    },
+    {
+      "name": "Jeera Rice",
+      "description": "Rice tempered with cumin seeds.",
+      "price": 95
+    },
+    {
+      "name": "Veg Pulao",
+      "description": "A rice pilaf with mixed vegetables.",
+      "price": 110
+    },
+    {
+      "name": "Lemon Rice",
+      "description": "A tangy rice dish with lemon flavor.",
+      "price": 100
+    },
+    {
+      "name": "Mutter Paneer Pulao",
+      "description": "A rice pilaf with peas and paneer.",
+      "price": 130
+    },
+    {
+      "name": "Butter Rice",
+      "description": "Rice cooked with butter.",
+      "price": 90
+    },
+    {
+      "name": "Steam Rice",
+      "description": "Plain steamed rice.",
+      "price": 75
+    },
+    {
+      "name": "Green Peas Pulao",
+      "description": "A rice pilaf with green peas.",
+      "price": 100
+    },
+    {
+      "name": "Curd Rice",
+      "description": "A comforting dish of rice mixed with yogurt.",
+      "price": 90
+    },
+    {
+      "name": "Veg Biriyani",
+      "description": "Aromatic rice dish with mixed vegetables and spices.",
+      "price": 110
+    },
+    {
+      "name": "Biriyani Rice",
+      "description": "Aromatic spiced rice, served plain.",
+      "price": {
+        "Half": "60",
+        "Full": "90"
+      }
+    },
+    {
+      "name": "Paneer Tikka Briyani",
+      "description": "Aromatic biryani with grilled paneer tikka.",
+      "price": 260
+    }
+  ],
+  "Rice & Noodles Veg": [
+    {
+      "name": "Veg Chilli Garlic Noodles",
+      "description": "Noodles tossed with vegetables in a spicy chilli garlic sauce.",
+      "price": 140
+    },
+    {
+      "name": "Singapore Noodles",
+      "description": "Singapore style stir-fried noodles with vegetables.",
+      "price": 130
+    },
+    {
+      "name": "Chef's Own Gray Lane Special Fried Rice & Noodles",
+      "description": "The chef's special preparation of fried rice and noodles.",
+      "price": 190
+    },
+    {
+      "name": "Veg Shezwan Triple Fried Rice",
+      "description": "A three-layered dish of rice, noodles, and spicy Schezwan gravy with vegetables.",
+      "price": 180
+    },
+    {
+      "name": "Bon Garlic Fried Rice",
+      "description": "Fried rice with a prominent burnt garlic flavor.",
+      "price": 130
+    },
+    {
+      "name": "Mushroom Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with mushrooms.",
+      "price": 150
+    },
+    {
+      "name": "Veg Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with mixed vegetables.",
+      "price": 110
+    },
+    {
+      "name": "Vegetable Triple Fried Rice",
+      "description": "A three-layered dish of rice, noodles, and gravy with vegetables.",
+      "price": 170
+    },
+    {
+      "name": "Veg American Chopsuey",
+      "description": "Crispy noodles topped with a sweet and sour vegetable gravy.",
+      "price": 150
+    },
+    {
+      "name": "Veg Mongolian Fried Rice",
+      "description": "Mongolian style fried rice with vegetables.",
+      "price": 130
+    },
+    {
+      "name": "Veg Mix American Chopsuey",
+      "description": "American chopsuey with mixed vegetables.",
+      "price": 170
+    },
+    {
+      "name": "Veg Pan Fried Noodles",
+      "description": "Pan-fried noodles with vegetables.",
+      "price": 130
+    },
+    {
+      "name": "Veg hong Kong Fried Rice",
+      "description": "Hong Kong style fried rice with vegetables.",
+      "price": 130
+    }
+  ],
+  "Rice & Noodles Non-veg": [
+    {
+      "name": "Mixed Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with mixed meat and seafood.",
+      "price": 160
+    },
+    {
+      "name": "Mix Triple Fried Rice",
+      "description": "A three-layered dish of rice, noodles, and gravy with mixed meat and seafood.",
+      "price": 190
+    },
+    {
+      "name": "Egg Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with egg.",
+      "price": 110
+    },
+    {
+      "name": "Chicken Singapore Noodles",
+      "description": "Singapore style stir-fried noodles with chicken.",
+      "price": 150
+    },
+    {
+      "name": "Chicken Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with chicken.",
+      "price": 140
+    },
+    {
+      "name": "Chicken Schezwan Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with chicken in spicy Schezwan sauce.",
+      "price": 150
+    },
+    {
+      "name": "Triple Chicken Fried Rice",
+      "description": "A three-layered dish of rice, noodles, and gravy with chicken.",
+      "price": 170
+    },
+    {
+      "name": "Mix Hong Kong Fried Rice",
+      "description": "Hong Kong style fried rice with mixed meat and seafood.",
+      "price": 180
+    },
+    {
+      "name": "Chicken Mongolian Fried Rice",
+      "description": "Mongolian style fried rice with chicken.",
+      "price": 150
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "description": "Hakka style noodles with chicken.",
+      "price": 140
+    },
+    {
+      "name": "Hot Garlic Mix Noodles",
+      "description": "Noodles with mixed meat and seafood in a hot garlic sauce.",
+      "price": 140
+    },
+    {
+      "name": "Chicken Tikka Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with chicken tikka.",
+      "price": 150
+    },
+    {
+      "name": "Fan Fried Chicken Noodles",
+      "description": "Fan-fried style noodles with chicken.",
+      "price": 140
+    },
+    {
+      "name": "Mix American Chopsuey",
+      "description": "Crispy noodles topped with a sweet and sour mixed meat and seafood gravy.",
+      "price": 180
+    },
+    {
+      "name": "Chicken American Chopsuey",
+      "description": "Crispy noodles topped with a sweet and sour chicken gravy.",
+      "price": 160
+    }
+  ],
+  "Seafood": [
+    {
+      "name": "Gray Lane Special Platter",
+      "description": "A special platter featuring Prawns, Squids, Crab, Mussels, and King Fish.",
+      "price": 1480
+    },
+    {
+      "name": "Golden Fried Shrimps (6 pc)",
+      "description": "A portion of 6 golden fried shrimps.",
+      "price": 270
+    },
+    {
+      "name": "Lobster Bites (12 pc)",
+      "description": "A portion of 12 bite-sized lobster pieces.",
+      "price": 270
+    },
+    {
+      "name": "Fish Fingers (4 pc)",
+      "description": "A portion of 4 crispy fish fingers.",
+      "price": 250
+    }
+  ],
+  "Non Veg Biriyani": [
+    {
+      "name": "Chicken Talsheri Dum Briyani",
+      "description": "A Thalassery style chicken biryani cooked with the dum method.",
+      "price": 195
+    },
+    {
+      "name": "Gray Lane Special Chicken Dum Briyani",
+      "description": "A special chicken biryani cooked with the dum method.",
+      "price": {
+        "Half": "130",
+        "Full": "220"
+      }
+    },
+    {
+      "name": "Chicken Briyani",
+      "description": "A classic aromatic rice dish with chicken and spices.",
+      "price": {
+        "Half": "120",
+        "Full": "180"
+      }
+    },
+    {
+      "name": "Mutton Briyani",
+      "description": "A classic aromatic rice dish with mutton and spices.",
+      "price": {
+        "Half": "180",
+        "Full": "280"
+      }
+    },
+    {
+      "name": "Egg Briyani",
+      "description": "Aromatic biryani with boiled eggs.",
+      "price": 110
+    },
+    {
+      "name": "Chicken Tikka Briyani",
+      "description": "Aromatic biryani with grilled chicken tikka.",
+      "price": {
+        "Half": "140",
+        "Full": "195"
+      }   
+    },
+    {
+      "name": "Mushroom Tikka Briyani",
+      "description": "Aromatic biryani with grilled mushroom tikka.",
+      "price": 190
+    },
+    {
+      "name": "Jinga Briyani",
+      "description": "Aromatic biryani with prawns.",
+      "price": 320
+    },
+    {
+      "name": "Fish Briyani",
+      "description": "Aromatic biryani with fish (price is seasonal).",
+      "note": "Price as per size"
+    }
+  ],
+  "Chinese Side Dish Options (gravy)": [
+    {
+      "name": "Chicken Chilli (Gravy)",
+      "description": "A gravy version of the classic Indo-Chinese chilli chicken.",
+      "price": 190
+    },
+    {
+      "name": "Hot Garlic Chicken (Gravy)",
+      "description": "Chicken in a spicy hot garlic gravy.",
+      "price": 200
+    },
+    {
+      "name": "Ginger Chicken (Gravy)",
+      "description": "Chicken in a ginger-flavored gravy.",
+      "price": 180
+    },
+    {
+      "name": "Sweet Garlic Chicken (Gravy)",
+      "description": "Chicken in a sweet garlic gravy.",
+      "price": 190
+    },
+    {
+      "name": "Hunan Chicken (Gravy)",
+      "description": "Chicken in a spicy Hunan-style gravy.",
+      "price": 180
+    },
+    {
+      "name": "Manchurian Chicken (Gravy)",
+      "description": "Chicken balls in a classic Manchurian gravy.",
+      "price": 180
+    },
+    {
+      "name": "Sweet and Sour Chicken (Gravy)",
+      "description": "Chicken in a classic sweet and sour gravy.",
+      "price": 180
+    },
+    {
+      "name": "Schezwan Chicken (Gravy)",
+      "description": "Chicken in a spicy Schezwan gravy.",
+      "price": 190
+    },
+    {
+      "name": "Lemon Chicken (Gravy)",
+      "description": "Chicken in a tangy lemon-flavored gravy.",
+      "price": 180
+    }
+  ],
+  "Seafood Rice & Noodles": [
+    {
+      "name": "Prawns Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with prawns.",
+      "price": 195
+    },
+    {
+      "name": "Seafood Spicy Fried Rice & Noodles",
+      "description": "A spicy combination of fried rice and noodles with assorted seafood.",
+      "price": 220
+    },
+    {
+      "name": "Prawns Schezwan Fried Rice & Noodles",
+      "description": "A combination of fried rice and noodles with prawns in spicy Schezwan sauce.",
+      "price": 200
+    }
+  ],
+  "Chinese Side Dishes (dry Items)": [
+    {
+      "name": "Chilli Chicken (Dry)",
+      "description": "A dry version of the classic Indo-Chinese chilli chicken.",
+      "price": 200
+    },
+    {
+      "name": "Dragon Chicken (Dry)",
+      "description": "A spicy and tangy dry chicken dish.",
+      "price": 190
+    },
+    {
+      "name": "Manchurian Chicken (Dry)",
+      "description": "Dry chicken balls tossed in Manchurian sauce.",
+      "price": 180
+    },
+    {
+      "name": "Kung Fu Chicken (Dry)",
+      "description": "A special Kung Fu style dry chicken dish.",
+      "price": 180
+    },
+    {
+      "name": "Ginger Chicken (Dry)",
+      "description": "Dry chicken with a dominant ginger flavor.",
+      "price": 180
+    },
+    {
+      "name": "Garlic Chicken (Dry)",
+      "description": "Dry chicken with a dominant garlic flavor.",
+      "price": 190
+    },
+    {
+      "name": "Schezwan Chicken (Dry)",
+      "description": "Dry chicken tossed in a spicy Schezwan sauce.",
+      "price": 200
+    }
+  ],
+  "Chinese Seafood (gravy & Dry Options)": [
+    {
+      "name": "Prawns Pepper Dry",
+      "description": "Dry prawns with a dominant pepper flavor.",
+      "price": 230
+    },
+    {
+      "name": "Black Pepper Prawns in Sauce",
+      "description": "Prawns cooked in a black pepper sauce.",
+      "price": 240
+    },
+    {
+      "name": "Fish Chilli Gravy",
+      "description": "Fish in a spicy chilli gravy.",
+      "price": 180
+    },
+    {
+      "name": "Fish Manchurian Gravy",
+      "description": "Fish in a classic Manchurian gravy.",
+      "price": 180
+    },
+    {
+      "name": "Chilli Fish Dry",
+      "description": "Dry fish tossed in a spicy chilli sauce.",
+      "price": 200
+    },
+    {
+      "name": "Hot Garlic Fish Dry",
+      "description": "Dry fish tossed in a hot garlic sauce.",
+      "price": 220
+    },
+    {
+      "name": "Chilli Prawns Gravy",
+      "description": "Prawns in a spicy chilli gravy.",
+      "price": 220
+    },
+    {
+      "name": "Fish Garlic Gravy",
+      "description": "Fish in a garlic-flavored gravy.",
+      "price": 190
+    },
+    {
+      "name": "Ginger Fish Gravy",
+      "description": "Fish in a ginger-flavored gravy.",
+      "price": 180
+    },
+    {
+      "name": "Ginger Fish Dry",
+      "description": "Dry fish with a dominant ginger flavor.",
+      "price": 200
+    },
+    {
+      "name": "Fish Ginger Gravy",
+      "price": 180
+    }
+  ],
+  "Egg Options": [
+    {
+      "name": "Egg Half Fry",
+      "description": "A single egg fried sunny-side up.",
+      "price": 30
+    },
+    {
+      "name": "Egg Omelet",
+      "description": "A simple beaten egg omelet.",
+      "price": 40
+    },
+    {
+      "name": "Scrambled Egg",
+      "description": "Fluffy scrambled eggs.",
+      "price": 60
+    },
+    {
+      "name": "High Protein Omelette",
+      "description": "An omelette packed with extra protein.",
+      "price": 90
+    },
+    {
+      "name": "Egg Kurma",
+      "description": "Eggs in a mild and creamy kurma gravy.",
+      "price": 120
+    },
+    {
+      "name": "Russian Omelette",
+      "description": "A hearty omelette, Russian style.",
+      "price": 100
+    },
+    {
+      "name": "Cheese Omelette",
+      "description": "An omelette with melted cheese.",
+      "price": 90
+    },
+    {
+      "name": "Egg Fajita Side",
+      "description": "A side dish of eggs prepared in a fajita style.",
+      "price": 150
+    },
+    {
+      "name": "Egg Masala",
+      "description": "Eggs cooked in a spiced gravy.",
+      "price": 100
+    }
+  ],
+  "Pasta De Italia": [
+    {
+      "name": "Pasta De Italia (Chicken)",
+      "description": "A chicken pasta dish, Italian style.",
+      "price": 240
+    },
+    {
+      "name": "Pasta De Italia (Sea Food)",
+      "description": "A seafood pasta dish, Italian style.",
+      "price": 290
+    },
+    {
+      "name": "Pasta De Italia (Veg)",
+      "description": "A vegetarian pasta dish, Italian style.",
+      "price": 190
+    }
+  ],
+  "South Indian": [
+    {
+      "name": "Veg Thali",
+      "description": "A South Indian style vegetarian meal platter.",
+      "price": 90
+    },
+    {
+      "name": "Chicken Ghee Roast (6 pc)",
+      "description": "A portion of 6 pieces of chicken in a rich, spicy ghee roast masala.",
+      "price": 350
+    },
+    {
+      "name": "Chicken Sukka (8 pc)",
+      "description": "A portion of 8 pieces of a dry Mangalorean chicken dish.",
+      "price": 220
+    },
+    {
+      "name": "Chicken Pepper Dry",
+      "description": "A dry South Indian style chicken dish with pepper.",
+      "price": 260
+    },
+    {
+      "name": "Chicken Aleppy",
+      "description": "A mild chicken curry from Alleppey with coconut milk.",
+      "price": 240
+    },
+    {
+      "name": "Mutton Nadan Curry",
+      "description": "A traditional Kerala style mutton curry.",
+      "price": 360
+    },
+    {
+      "name": "Mutton Chops (4 pc)",
+      "description": "A portion of 4 mutton chops.",
+      "price": 620
+    },
+    {
+      "name": "Chicken Kandhari",
+      "description": "A spicy chicken dish with Kandhari spices.",
+      "price": 350
+    },
+    {
+      "name": "Fish Curry Thali",
+      "description": "A South Indian style meal platter with fish curry.",
+      "price": 90
+    },
+    {
+      "name": "Gray Lane Sp. Nonveg Thali",
+      "description": "A special Gray Lane non-vegetarian meal platter.",
+      "price": 250
+    },
+    {
+      "name": "Chicken Uruval",
+      "description": "A spicy, roasted chicken dish.",
+      "price": 350
+    },
+    {
+      "name": "Chicken Nadan Curry",
+      "description": "A traditional Kerala style chicken curry.",
+      "price": 220
+    },
+    {
+      "name": "Chicken Puli Munchi",
+      "description": "A tangy and spicy Mangalorean chicken curry.",
+      "price": 240
+    },
+    {
+      "name": "Malabar Fried Chicken (10 pc)",
+      "description": "A portion of 10 pieces of Malabar style fried chicken.",
+      "price": 380
+    }
+  ],
+  "Gray Lane Seafood": [
+    {
+      "name": "Anjal (Masala Try / Puli Munchi)",
+      "description": "Anjal fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Pomfret (Masala Try / Puli Munchi)",
+      "description": "Pomfret fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Muru (Masala Try / Puli Munchi)",
+      "description": "Muru fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Disco (Masala Try / Puli Munchi)",
+      "description": "Disco fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Hamour (Masala Try / Puli Munchi)",
+      "description": "Hamour fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Lape (Tawa Fry / Gray Sp. Try)",
+      "description": "Lape fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Lape (Masala Try / Puli Munchi)",
+      "description": "Lape fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Crab (Tawa Fry / Gray Sp. Try)",
+      "description": "Crab prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Melg (6 pc)",
+      "description": "A portion of 6 pieces of Melg fish (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Prawns Ghee Roast",
+      "description": "Prawns in a rich, spicy ghee roast masala (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Melg Ghee Roast (6 pc)",
+      "description": "A portion of 6 pieces of Melg fish in a rich, spicy ghee roast masala (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Meen Piral",
+      "description": "A dry, roasted fish preparation (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Pomfret (Tawa Fry / Gray Sp. Try)",
+      "description": "Pomfret fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Disco (Tawa Fry / Gray Sp. Try)",
+      "description": "Disco fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Hamour (Tawa Fry / Gray Sp. Try)",
+      "description": "Hamour fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Mathi (Masala Try / Puli Munchi)",
+      "description": "Mathi fish prepared either as Masala Try or Puli Munchi (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Prawns (Tawa Fry / Gray Sp. Try)",
+      "description": "Prawns prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Squid (Tawa Fry / Gray Sp. Try)",
+      "description": "Squid prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Meen Pollichathu",
+      "description": "Fish marinated in spices, wrapped in a banana leaf, and cooked (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Anjal (Tawa Fry / Gray Sp. Try)",
+      "description": "Anjal fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Mathi (Tawa Fry / Gray Sp. Try)",
+      "description": "Mathi fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    },
+    {
+      "name": "Muru (Tawa Fry / Gray Sp. Try)",
+      "description": "Muru fish prepared either as Tawa Fry or Gray's Special Try (price as per size).",
+      "price": "As per size"
+    }
+  ],
+  "Graylane Monster": [
+    {
+      "name": "Pista Monster",
+      "description": "A large, indulgent pistachio flavored monster shake.",
+      "price": 110
+    },
+    {
+      "name": "Vanilla Monster",
+      "description": "A large, indulgent vanilla flavored monster shake.",
+      "price": 110
+    },
+    {
+      "name": "Chocolate Monster",
+      "description": "A large, indulgent chocolate flavored monster shake.",
+      "price": 110
+    },
+    {
+      "name": "Oreo Monster",
+      "description": "A large, indulgent Oreo flavored monster shake.",
+      "price": 110
+    },
+    {
+      "name": "Tender Monster",
+      "description": "A large, indulgent tender coconut flavored monster shake.",
+      "price": 110
+    },
+    {
+      "name": "Strawberry Monster",
+      "description": "A large, indulgent strawberry flavored monster shake.",
+      "price": 110
+    }
+  ],
+  "Graylane Shake With Ice Cream": [
+    {
+      "name": "Rose Milk Shake With Ice Cream",
+      "description": "A creamy rose milk shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Oreo Shake With Ice Cream",
+      "description": "A creamy Oreo shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Kit Kat Shake With Ice Cream",
+      "description": "A creamy Kit Kat shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Black Currant Shake With Ice Cream",
+      "description": "A creamy black currant shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Cold Coffee Shake With Ice Cream",
+      "description": "A creamy cold coffee shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Horlicks Shake With Ice Cream",
+      "description": "A creamy Horlicks shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Boost Shake With Ice Cream",
+      "description": "A creamy Boost shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Apple Shake With Ice Cream",
+      "description": "A creamy apple shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Sweet Melon Shake With Ice Cream",
+      "description": "A creamy sweet melon shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Cherry Shake With Ice Cream",
+      "description": "A creamy cherry shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Banana Shake With Ice Cream",
+      "description": "A creamy banana shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Chocolate Shake With Ice Cream",
+      "description": "A creamy chocolate shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Pista Shake With Ice Cream",
+      "description": "A creamy pistachio shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Dry Nut Shake With Ice Cream",
+      "description": "A creamy dry nut shake with a scoop of ice cream.",
+      "price": 140
+    },
+    {
+      "name": "Avocado Shake With Ice Cream",
+      "description": "A creamy avocado shake with a scoop of ice cream.",
+      "price": 100
+    },
+    {
+      "name": "Cocktail Shake With Ice Cream",
+      "description": "A creamy mixed fruit cocktail shake with a scoop of ice cream.",
+      "price": 130
+    },
+    {
+      "name": "Dragon Fruit Shake With Ice Cream",
+      "description": "A creamy dragon fruit shake with a scoop of ice cream.",
+      "price": 110
+    },
+    {
+      "name": "Strawberry Shake With Ice Cream",
+      "description": "A creamy strawberry shake with a scoop of ice cream.",
+      "price": 110
+    }
+  ],
+  "Graylane Fresh Juice": [
+    {
+      "name": "Sweet Melon Juice",
+      "description": "Freshly squeezed sweet melon juice.",
+      "price": 60
+    },
+    {
+      "name": "Pomegranate Juice",
+      "description": "Freshly squeezed pomegranate juice.",
+      "price": 60
+    },
+    {
+      "name": "Kiwi Juice",
+      "description": "Freshly made kiwi juice.",
+      "price": 70
+    },
+    {
+      "name": "Orange Carrot Juice",
+      "description": "A healthy blend of fresh orange and carrot juice.",
+      "price": 70
+    },
+    {
+      "name": "Lemon Juice",
+      "description": "Freshly squeezed lemon juice.",
+      "price": 30
+    },
+    {
+      "name": "Grape Juice",
+      "description": "Freshly squeezed grape juice.",
+      "price": 60
+    },
+    {
+      "name": "Musambi Juice",
+      "description": "Freshly squeezed sweet lime juice.",
+      "price": 60
+    },
+    {
+      "name": "Watermelon Juice",
+      "description": "Freshly squeezed watermelon juice.",
+      "price": 50
+    },
+    {
+      "name": "Mango Juice",
+      "description": "Freshly made mango juice.",
+      "price": 60
+    },
+    {
+      "name": "Apple Juice",
+      "description": "Freshly squeezed apple juice.",
+      "price": 70
+    },
+    {
+      "name": "Cucumber Juice",
+      "description": "Freshly squeezed cucumber juice.",
+      "price": 60
+    },
+    {
+      "name": "Blue Lemon Juice",
+      "description": "A refreshing blue curacao and lemon juice drink.",
+      "price": 40
+    },
+    {
+      "name": "Chikku Juice",
+      "description": "Freshly made sapota (chikku) juice.",
+      "price": 60
+    },
+    {
+      "name": "Pineapple Juice",
+      "description": "Freshly squeezed pineapple juice.",
+      "price": 70
+    },
+    {
+      "name": "Green Apple Juice",
+      "description": "Freshly squeezed green apple juice.",
+      "price": 70
+    },
+    {
+      "name": "Orange Juice",
+      "description": "Freshly squeezed orange juice.",
+      "price": 60
+    },
+    {
+      "name": "Lemon Mint Juice",
+      "description": "A refreshing blend of lemon and mint juice.",
+      "price": 50
+    },
+    {
+      "name": "Avocado Juice",
+      "description": "Freshly made avocado juice.",
+      "price": 70
+    }
+  ],
+  "Gray Lane Soda": [
+    {
+      "name": "Masala Soda",
+      "description": "A tangy soda with Indian spices.",
+      "price": 40
+    },
+    {
+      "name": "Mint Soda",
+      "description": "A refreshing soda with mint.",
+      "price": 40
+    },
+    {
+      "name": "Ginger Soda",
+      "description": "A zesty soda with ginger.",
+      "price": 40
+    },
+    {
+      "name": "Blue Lemon Soda",
+      "description": "A refreshing soda with blue curacao and lemon.",
+      "price": 50
+    },
+    {
+      "name": "Green Lemon Soda",
+      "description": "A refreshing green soda with lemon.",
+      "price": 40
+    },
+    {
+      "name": "Lemon Soda",
+      "description": "A refreshing soda with lemon.",
+      "price": 40
+    }
+  ],
+  "Graylane Continental Soup": [
+    {
+      "name": "Creamy Tomato Thai Soup",
+      "description": "A creamy tomato soup with Thai flavors.",
+      "price": 170
+    },
+    {
+      "name": "Lemon Coriander Soup (Chicken)",
+      "description": "A refreshing soup with chicken, lemon, and coriander.",
+      "price": 110
+    },
+    {
+      "name": "Minestrone Veg Soup",
+      "description": "A classic Italian vegetable soup.",
+      "price": 150
+    },
+    {
+      "name": "Lemon Coriander Soup (Veg)",
+      "description": "A refreshing vegetarian soup with lemon and coriander.",
+      "price": 80
+    },
+    {
+      "name": "Roasted Chicken Garlic Soup",
+      "description": "A flavorful soup with roasted chicken and garlic.",
+      "price": 130
+    }
+  ],
+  "Gray Lane Continental Starters": [
+    {
+      "name": "Batter Fried Fish N Chips",
+      "description": "A classic dish of batter-fried fish served with chips.",
+      "price": 320
+    },
+    {
+      "name": "Prawns in Harissa Sauce",
+      "description": "Prawns cooked in a spicy Harissa sauce.",
+      "price": 375
+    },
+    {
+      "name": "Mushroom Bruschetta (Veg)",
+      "description": "Toasted bread topped with seasoned mushrooms.",
+      "price": 195
+    },
+    {
+      "name": "Chermoula Chicken",
+      "description": "Chicken marinated in a North African chermoula sauce.",
+      "price": 280
+    },
+    {
+      "name": "Chicken Quesdilla",
+      "description": "A tortilla filled with chicken and cheese, then grilled.",
+      "price": 275
+    },
+    {
+      "name": "Cottage Cheese Finger (Veg)",
+      "description": "Crispy fried cottage cheese fingers.",
+      "price": 250
+    },
+    {
+      "name": "Jalapeño Texas Cheese Poppers (Veg)",
+      "description": "Spicy jalapeño and cheese poppers.",
+      "price": 250
+    },
+    {
+      "name": "Paneer & Corn Cheese Poppers (Veg)",
+      "description": "Poppers with a filling of paneer, corn, and cheese.",
+      "price": 250
+    },
+    {
+      "name": "Frito Funghi (Veg)",
+      "description": "Fried mushrooms, Italian style.",
+      "price": 260
+    },
+    {
+      "name": "Chicken Tender",
+      "description": "Crispy fried chicken tenders.",
+      "price": 250
+    }
+  ],
+  "Gray Lane Fresh Salad": [
+    {
+      "name": "Veg Caesar Salad",
+      "description": "A vegetarian version of the classic Caesar salad.",
+      "price": 110
+    },
+    {
+      "name": "Mexican Corn Salad",
+      "description": "A zesty salad with corn and Mexican flavors.",
+      "price": 180
+    },
+    {
+      "name": "Mini Corn Cucumber Green Salad",
+      "description": "A fresh green salad with mini corn and cucumber.",
+      "price": 175
+    },
+    {
+      "name": "Fresh Green Salad",
+      "description": "A simple salad of fresh green vegetables.",
+      "price": 60
+    },
+    {
+      "name": "Seafood Salad",
+      "description": "A fresh salad with assorted seafood.",
+      "price": 250
+    },
+    {
+      "name": "Feta Greek Salad",
+      "description": "A classic Greek salad with feta cheese.",
+      "price": 180
+    },
+    {
+      "name": "Mini Corn Cucumber Bean Salad",
+      "description": "A salad with mini corn, cucumber, and beans.",
+      "price": 190
+    },
+    {
+      "name": "Russian Salad",
+      "description": "A salad of diced vegetables and potatoes in a mayonnaise dressing.",
+      "price": 150
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "description": "The classic Caesar salad with grilled chicken.",
+      "price": 220
+    },
+    {
+      "name": "Garden Fresh Salad",
+      "description": "A simple salad of fresh garden vegetables.",
+      "price": 90
+    }
+  ],
+  "Kulukki Sharbath": [
+    {
+      "name": "Orange Kulukki",
+      "description": "A shaken sarbath drink with orange.",
+      "price": 65
+    },
+    {
+      "name": "Pineapple Kulukki",
+      "description": "A shaken sarbath drink with pineapple.",
+      "price": 65
+    },
+    {
+      "name": "Grape Kulukki",
+      "description": "A shaken sarbath drink with grape.",
+      "price": 65
+    },
+    {
+      "name": "Mango Kulukki",
+      "description": "A shaken sarbath drink with mango.",
+      "price": 65
+    }
+  ],
+  "Beverages": [
+    {
+      "name": "Masala Tea",
+      "description": "Tea brewed with a mixture of aromatic Indian spices.",
+      "price": 20
+    },
+    {
+      "name": "Green Tea",
+      "description": "A cup of green tea.",
+      "price": 20
+    },
+    {
+      "name": "Soft Drinks",
+      "description": "A choice of soft drinks.",
+      "price": 20
+    },
+    {
+      "name": "Black Tea",
+      "description": "Plain black tea.",
+      "price": 15
+    },
+    {
+      "name": "Lemon Mint Tea",
+      "description": "Tea with lemon and mint.",
+      "price": 20
+    },
+    {
+      "name": "Adhrak Ka Pani",
+      "description": "A hot ginger drink.",
+      "price": 20
+    },
+    {
+      "name": "Nescafe",
+      "description": "A cup of Nescafe coffee.",
+      "price": 25
+    },
+    {
+      "name": "Black Coffee",
+      "description": "Plain black coffee.",
+      "price": 20
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "A classic cold coffee drink.",
+      "price": 45
+    },
+    {
+      "name": "Water",
+      "description": "A bottle of water.",
+      "price": {
+        "s": "15",
+        "L": "25"
+      }
+    }
+  ],
+  "Gray Lane Desserts": [
+    {
+      "name": "Creme Brullee",
+      "description": "A rich custard base topped with a layer of hardened caramelized sugar.",
+      "price": 225
+    },
+    {
+      "name": "Fruit Salad with Ice Cream",
+      "description": "A mix of fresh fruits served with a scoop of ice cream.",
+      "price": 160
+    },
+    {
+      "name": "Almond Variety of Ice Cream (2 Scoops)",
+      "description": "Two scoops of almond-flavored ice cream.",
+      "price": 350
+    },
+    {
+      "name": "Graylane Sp. Kunafa",
+      "description": "A special cheese-based pastry dessert, Graylane style.",
+      "price": 350
+    },
+    {
+      "name": "Fried Ice Cream with Sauce",
+      "description": "A scoop of ice cream fried and served with sauce.",
+      "price": 270
+    },
+    {
+      "name": "Chocolate Pancake",
+      "description": "Pancakes with a rich chocolate topping.",
+      "price": 220
+    },
+    {
+      "name": "Baked Yogurt",
+      "description": "A sweet, baked yogurt dessert.",
+      "price": 230
+    },
+    {
+      "name": "Carame Caramel",
+      "description": "A classic creme caramel dessert.",
+      "price": 210
+    },
+    {
+      "name": "Banana Split with Ice Cream",
+      "description": "A classic banana split dessert with ice cream and toppings.",
+      "price": 390
+    }
+  ],
+  "Gray Lane Sp Kunafa (nuts)": [
+    {
+      "name": "Walnut",
+      "description": "",
+      "price": 350
+    },
+    {
+      "name": "Almond",
+      "description": "",
+      "price": 330
+    },
+    {
+      "name": "Cashew",
+      "description": "",
+      "price": 330
+    },
+    {
+      "name": "Fig Anjeer",
+      "description": "",
+      "price": 330
+    },
+    {
+      "name": "Pistachio",
+      "description": "",
+      "price": 350
+    }
+  ],
+  "Gray Lane Sp Kunafa (Chocolates)": [
+    {
+      "name": "Ferrero Rocher",
+      "description": "A portion of Ferrero Rocher chocolates.",
+      "price": 390
+    },
+    {
+      "name": "Lotus Biscoff",
+      "description": "A dessert featuring Lotus Biscoff.",
+      "price": 330
+    },
+    {
+      "name": "Nutella",
+      "description": "A dessert featuring Nutella.",
+      "price": 350
+    }
+  ],
+  "Gray Lane Traditional Arabic": [
+    {
+      "name": "Grill Mandi",
+      "description": "Grilled chicken served with Mandi rice.",
+      "price": {
+        "Qtr": 210,
+        "Half": 430,
+        "Full": 840
+      }
+    },
+    {
+      "name": "Tandoori Mandi",
+      "description": "Tandoori chicken served with Mandi rice.",
+      "price": {
+        "Qtr": 220,
+        "Half": 430,
+        "Full": 840
+      }
+    },
+    {
+      "name": "Mandi Rice",
+      "description": "A portion of aromatic Mandi rice.",
+      "price": 100
+    },
+    {
+      "name": "Alfaham",
+      "description": "Charcoal-grilled chicken marinated in Arabic spices.",
+      "price": {
+        "Qtr": 120,
+        "Half": 240,
+        "Full": 470
+      }
+    },
+    {
+      "name": "Peri Peri Alfaham",
+      "description": "Alfaham chicken with a spicy Peri Peri flavor.",
+      "price": {
+        "Qtr": 130,
+        "Half": 260,
+        "Full": 470
+      }
+    },
+    {
+      "name": "Alfaham BBQ Pepper",
+      "description": "BBQ chicken with a pepper seasoning.",
+      "price": {
+        "Qtr": 140,
+        "Half": 260,
+        "Full": 480
+      }
+    },
+    {
+      "name": "Peri Peri Mandi",
+      "description": "Peri Peri flavored chicken served with Mandi rice.",
+      "price": {
+        "Qtr": 220,
+        "Half": 430,
+        "Full": 840
+      }
+    },
+    {
+      "name": "Shawai",
+      "description": "Grilled chicken, Arabic style.",
+      "price": {
+        "Qtr": 140,
+        "Half": 250,
+        "Full": 450
+      }
+    },
+    {
+      "name": "Mutton Mandi",
+      "description": "Slow-cooked mutton served with Mandi rice.",
+      "price": {
+        "Qtr": 380,
+        "Half": 730,
+        "Full": 1370
+      }
+    },
+    {
+      "name": "Alfaham Mandi",
+      "description": "Arabic grilled chicken (Alfaham) served with Mandi rice.",
+      "price": {
+        "Qtr": 210,
+        "Half": 430,
+        "Full": 840
+      }
+    },
+    {
+      "name": "Chicken Mandhi",
+      "description": "Classic chicken Mandhi.",
+      "price": {
+        "Qtr": 210,
+        "Half": 410,
+        "Full": 800
+      }
+    }
+  ],
+  "Mojito": [
+    {
+      "name": "Pineapple Mojito",
+      "description": "A refreshing mojito with pineapple flavor.",
+      "price": 70
+    },
+    {
+      "name": "Plain Mojito",
+      "description": "A classic plain mojito.",
+      "price": 65
+    },
+    {
+      "name": "Black Currant Mojito",
+      "description": "A refreshing mojito with black currant flavor.",
+      "price": 70
+    },
+    {
+      "name": "Blue Mojito",
+      "description": "A refreshing blue curacao flavored mojito.",
+      "price": 70
+    },
+    {
+      "name": "Chilly Mojito",
+      "description": "A refreshing mojito with a spicy chilly kick.",
+      "price": 70
+    },
+    {
+      "name": "Mint Mojito",
+      "description": "A classic refreshing mojito with extra mint.",
+      "price": 70
+    }
+  ],
+  "Gray Lane Lassi": [
+    {
+      "name": "Guava Lassi",
+      "description": "A yogurt-based drink with guava flavor.",
+      "price": 50
+    },
+    {
+      "name": "Sweet Lassi",
+      "description": "A traditional sweet yogurt-based drink.",
+      "price": 50
+    },
+    {
+      "name": "Strawberry Lassi",
+      "description": "A yogurt-based drink with strawberry flavor.",
+      "price": 60
+    },
+    {
+      "name": "Badam Lassi",
+      "description": "A yogurt-based drink with almond flavor.",
+      "price": 70
+    },
+    {
+      "name": "Vanilla Lassi",
+      "description": "A yogurt-based drink with vanilla flavor.",
+      "price": 50
+    },
+    {
+      "name": "Black Currant Lassi",
+      "description": "A yogurt-based drink with black currant flavor.",
+      "price": 60
+    },
+    {
+      "name": "Dry Fruit Lassi",
+      "description": "A rich yogurt-based drink with dry fruits.",
+      "price": 75
+    }
+  ],
+  "Gray Lane Sp Kunafa (Classics)": [
+    {
+      "name": "Cream Cheese",
+      "description": "A portion of cream cheese.",
+      "price": 320
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "description": "A portion of mozzarella cheese.",
+      "price": 330
+    }
+  ]
+}

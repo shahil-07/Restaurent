@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Graylane Kitchen</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+
+  
+</head>
+
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#"><img src="images/logo.png" alt="Logo" height="40" /> Graylane Kitchen
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#specials">Special</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#gallery">Gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section id="home" class="hero text-center">
+    <div>
+      <h1>Welcome to Grayline Kitchen</h1>
+      <p>Good Food, Great Ambience</p>
+      <a href="menu.html" class="btn btn-primary btn-lg">View Full Menu</a>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="py-5">
+    <div class="container text-center">
+      <h2>About Us</h2>
+      <p class="lead">
+        At Grayline Kitchen, we serve authentic flavors with a modern twist.
+        Our chefs use the freshest ingredients to craft meals that bring
+        people together.
+      </p>
+      <p>
+        <i class="bi bi-geo-alt-fill"></i>Nalapad Highway King Complex. Near
+        A.H Fuels & Services. Opp:, Thalapady JHC, Mangalore, Karnataka
+      </p>
+      <p><i class="bi bi-clock"></i> Open: 10:00 AM - 11:00 PM</p>
+    </div>
+  </section>
+
+  <!-- Chef's Specials -->
+  <section id="specials" class="py-5">
+    <div class="container text-center">
+      <h2>Must Try</h2>
+      <div class="row mt-4">
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100 shadow-lg border-0">
+            <img src="images/food/crispychicken.jpg" class="card-img-top specials-img" alt="Crispy Chicken" />
+            <div class="card-body">
+              <h5 class="card-title">Crispy Chicken</h5>
+              <p class="card-text">
+                Deep-fried chicken with a crispy coating.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100 shadow-lg border-0">
+            <img src="images/food/chickenlolipop.jpeg" class="card-img-top specials-img" alt="Chicken lolipop" />
+            <div class="card-body">
+              <h5 class="card-title">Chicken lolipop</h5>
+              <p class="card-text">
+                A portion of 6 frenched chicken winglets.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100 shadow-lg border-0">
+            <img src="images/food/chickenmanchowsoup.jpg" class="card-img-top specials-img"
+              alt="Chicken Manchow Soup" />
+            <div class="card-body">
+              <h5 class="card-title">Chicken Manchow Soup</h5>
+              <p class="card-text">
+                A flavorful and spicy Chicken Manchow Soup.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100 shadow-lg border-0">
+            <img src="images/food/normalchixsteammomos.jpg" class="card-img-top specials-img"
+              alt="Normal Chix Steam Momos" />
+            <div class="card-body">
+              <h5 class="card-title">Normal Chix Steam Momos</h5>
+              <p class="card-text">Classic steamed chicken momos.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Gallery Carousel -->
+  <section id="gallery" class="py-5 bg-white">
+    <div class="container">
+      <h2 class="text-center text-black mb-4">Gallery</h2>
+
+      <!-- Desktop Carousel: 3 images per slide -->
+      <div id="desktopGallery" class="carousel slide d-none d-md-block" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row g-3">
+              <div class="col-md-4">
+                <img src="images/img1.png" class="d-block w-100 rounded" />
+              </div>
+              <div class="col-md-4">
+                <img src="images/img2.png" class="d-block w-100 rounded" />
+              </div>
+              <div class="col-md-4">
+                <img src="images/img3.jpg" class="d-block w-100 rounded" />
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row g-3">
+              <div class="col-md-4">
+                <img src="images/img4.png" class="d-block w-100 rounded" />
+              </div>
+              <div class="col-md-4">
+                <img src="images/img5.jpg" class="d-block w-100 rounded" />
+              </div>
+              <div class="col-md-4">
+                <img src="images/img10.jpg" class="d-block w-100 rounded" />
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row g-3">
+              <div class="col-md-4">
+                <img src="images/img7.jpg" class="d-block w-100 rounded" />
+              </div>
+              <div class="col-md-4">
+                <img src="images/img8.png" class="d-block w-100 rounded" />
+              </div>
+              <div class="col-md-4">
+                <img src="images/img9.png" class="d-block w-100 rounded" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Desktop Buttons Outside (on sides) -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#desktopGallery" data-bs-slide="prev" style="
+              position: absolute;
+              top: 50%;
+              left: -60px;
+              transform: translateY(-50%);
+              width: 50px;
+              height: 50px;
+              border-radius: 50%;
+              background: rgba(0, 0, 0, 0.5);
+            ">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#desktopGallery" data-bs-slide="next" style="
+              position: absolute;
+              top: 50%;
+              right: -60px;
+              transform: translateY(-50%);
+              width: 50px;
+              height: 50px;
+              border-radius: 50%;
+              background: rgba(0, 0, 0, 0.5);
+            ">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+
+      <!-- Mobile Carousel: 1 image per slide -->
+      <div id="mobileGallery" class="carousel slide d-block d-md-none" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="images/img1.png" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img2.png" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img3.jpg" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img4.png" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img5.jpg" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img10.jpg" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img7.jpg" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img8.png" class="d-block w-100 rounded" />
+          </div>
+          <div class="carousel-item">
+            <img src="images/img9.png" class="d-block w-100 rounded" />
+          </div>
+        </div>
+
+        <button class="carousel-control-prev" type="button" data-bs-target="#mobileGallery" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#mobileGallery" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lightbox Modal -->
+  <div class="modal fade" id="galleryModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+      <div class="modal-content bg-dark border-0">
+        <div class="modal-body p-0 position-relative">
+          <div id="lightboxCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="images/img1.png" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img2.png" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img3.jpg" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img4.png" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img5.jpg" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img10.jpg" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img7.jpg" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img8.png" class="d-block w-100" />
+              </div>
+              <div class="carousel-item">
+                <img src="images/img9.png" class="d-block w-100" />
+              </div>
+            </div>
+
+            <!-- Carousel Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#lightboxCarousel" data-bs-slide="prev"
+              style="z-index: 1040">
+              <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#lightboxCarousel" data-bs-slide="next"
+              style="z-index: 1040">
+              <span class="carousel-control-next-icon"></span>
+            </button>
+          </div>
+
+          <!-- Close Button -->
+          <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-3"
+            data-bs-dismiss="modal" style="z-index: 1050"></button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact -->
+  <section id="contact" class="py-5 bg-light">
+    <div class="container text-center">
+      <h2>Contact Us</h2>
+      <p><i class="bi bi-telephone"></i> +919632804292</p>
+      <p><i class="bi bi-envelope"></i> info@restaurant.com</p>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3937.154072569947!2d74.870938!3d12.7661421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35dcaa1ac6569%3A0xec00dfc5590f5de0!2sGray%20Lane%20Kitchen!5e0!3m2!1sen!2sin!4v1692365400000!5m2!1sen!2sin"
+        width="100%" height="300" style="border: 0" allowfullscreen></iframe>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center">
+    <div class="container">
+      <p>
+        Follow us:
+        <!-- <a href="#" class="text-light ms-2"><i class="bi bi-facebook"></i></a> -->
+        <a href="https://www.instagram.com/graylanekitchen/" class="text-light ms-2"><i class="bi bi-instagram"></i></a>
+        <!-- <a href="#" class="text-light ms-2"><i class="bi bi-twitter"></i></a> -->
+      </p>
+      <p>&copy; 2025 Graylane Kitchen. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="index.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
